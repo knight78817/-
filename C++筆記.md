@@ -4,9 +4,8 @@ README
 
 ****
 	
-|Author|果冻虾仁|
+|Author|Howder|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
 
 
 ****

@@ -2,6 +2,15 @@ C++筆記
 ===========================
 記錄有查詢過得的資料
 
+C 語言線上中文資源:
+https://pydoing.blogspot.tw/2010/09/c-resource.html
+
+index - 程式語言教學誌導覽目錄:
+https://pydoing.blogspot.tw/
+
+C 語言標準函數庫分類導覽索引:
+https://pydoing.blogspot.tw/2010/07/c-stdindex.html
+
 ****
 	
 |Author|Howder|

@@ -20,6 +20,8 @@ https://www.evernote.com/shard/s192/nl/22524655/8b135bb7-3d2e-48c0-a969-eff5c5a5
 
 ### 智慧居家小幫手
 https://projectplus.cc/Projects/smart-home-bot/
+#### 物聯網通識專題-Smart Home Bot
+https://github.com/LdsFish/NQUIOT106/blob/master/README.md
 
 
 ### 相關零件介紹

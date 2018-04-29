@@ -11,6 +11,7 @@
 ## 目录
 * [影像處理小程式](#影像處理小程式)
 * [智慧居家小幫手](#智慧居家小幫手)
+* [相關零件介紹](#相關零件介紹)
 
 
 ### 影像處理小程式
@@ -19,3 +20,13 @@ https://www.evernote.com/shard/s192/nl/22524655/8b135bb7-3d2e-48c0-a969-eff5c5a5
 
 ### 智慧居家小幫手
 https://projectplus.cc/Projects/smart-home-bot/
+
+
+### 相關零件介紹
+#### w5100 arduino
+https://www.taiwaniot.com.tw/product/1804272301a6-20/
+
+
+
+
+
